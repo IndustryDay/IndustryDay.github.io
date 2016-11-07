@@ -52,6 +52,7 @@
                 <li class=""><a href="#sponsorship">Sponsorship</a></li>
                 <li class=""><a href="#partner">Partners</a></li>
                 <li class=""><a href="#faq">FAQ</a></li>
+                <li class=""><a href="#booklet">Booklet</a></li>
                 <li class=""><a href="#photos">Photos</a></li>
 
             </ul>
@@ -171,16 +172,9 @@
                         <img alt="" class="img-responsive center-block" src="index_files/speaker-1.jpg">
                     </figure>
 
-                    <h4>Jhon Smith</h4>
+                    <h4>Mike Brown MVO,</h4>
 
-                    <p>CEO of Peren</p>
-
-                    <ul class="social-block">
-                        <li><a href=""><i class="ion-social-twitter"></i></a></li>
-                        <li><a href=""><i class="ion-social-facebook"></i></a></li>
-                        <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
-                        <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                    </ul>
+                    <p>London Transport Commissioner</p>
 
                 </div><!-- /.speaker -->
             </div><!-- /.col-md-4 -->
@@ -192,9 +186,9 @@
                         <img alt="" class="img-responsive center-block" src="index_files/speaker-2.jpg">
                     </figure>
 
-                    <h4>Jhon Smith</h4>
+                    <h4>To be confirmed</h4>
 
-                    <p>CEO of Peren</p>
+                    <p>-</p>
 
                     <ul class="social-block">
                         <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -213,9 +207,9 @@
                         <img alt="" class="img-responsive center-block" src="index_files/speaker-3.jpg">
                     </figure>
 
-                    <h4>Jhon Smith</h4>
+                    <h4>To be confirmed</h4>
 
-                    <p>CEO of Peren</p>
+                    <p>-</p>
 
                     <ul class="social-block">
                         <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -237,9 +231,9 @@
                         <img alt="" class="img-responsive center-block" src="index_files/speaker-4.jpg">
                     </figure>
 
-                    <h4>Jhon Smith</h4>
+                    <h4>To be confirmed</h4>
 
-                    <p>CEO of Peren</p>
+                    <p>-</p>
 
                     <ul class="social-block">
                         <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -258,9 +252,9 @@
                         <img alt="" class="img-responsive center-block" src="index_files/speaker-5.jpg">
                     </figure>
 
-                    <h4>Jhon Smith</h4>
+                    <h4>To be confirmed</h4>
 
-                    <p>CEO of Peren</p>
+                    <p>-</p>
 
                     <ul class="social-block">
                         <li><a href=""><i class="ion-social-twitter"></i></a></li>
@@ -277,8 +271,9 @@
                     <figure>
                         <img alt="" class="img-responsive center-block" src="index_files/speaker-6.jpg">
                     </figure>
-                    <h4>Jhon Smith</h4>
-                    <p>CEO of Peren</p>
+                    <h4>To be confirmed</h4>
+
+                    <p>-</p>
                     <ul class="social-block">
                         <li><a href=""><i class="ion-social-twitter"></i></a></li>
                         <li><a href=""><i class="ion-social-facebook"></i></a></li>
@@ -342,8 +337,8 @@
                     <div class="schedule_item">
                         <div class="panel-heading">
                             <div class="speakers">
-                                <img data-original-title="JHON SMITH" src="index_files/s-2_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
-                                <img data-original-title="ELIZABETH" src="index_files/s-1_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
+                                
+                                <img data-original-title="Mike" src="index_files/s-1_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                                 <img data-original-title="EMMA" src="index_files/s-4.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                                 <img data-original-title="AMELIA" src="index_files/s-3_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                             </div>
@@ -397,8 +392,8 @@
                     <div class="schedule_item">
                         <div class="panel-heading">
                             <div class="speakers">
-                                <img data-original-title="JHON SMITH" src="index_files/s-2_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
-                                <img data-original-title="ELIZABETH" src="index_files/s-1_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
+                                
+                                <img data-original-title="Mike" src="index_files/s-1_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                                 <img data-original-title="EMMA" src="index_files/s-4.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                                 <img data-original-title="AMELIA" src="index_files/s-3_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                             </div>
@@ -452,8 +447,8 @@
                     <div class="schedule_item">
                         <div class="panel-heading">
                             <div class="speakers">
-                                <img data-original-title="JHON SMITH" src="index_files/s-2_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
-                                <img data-original-title="ELIZABETH" src="index_files/s-1_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
+                                
+                                <img data-original-title="Mike" src="index_files/s-1_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                                 <img data-original-title="EMMA" src="index_files/s-4.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                                 <img data-original-title="AMELIA" src="index_files/s-3_002.png" alt="speaker" class="thum-s" data-toggle="tooltip" data-placement="top" title="">
                             </div>
@@ -510,45 +505,6 @@
 </section>
 
 
-<section id="important-date" class="section important-date">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h3 class="section-title">Important Dates</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <table style="width:100%">
-                    <tbody><tr>
-                        <th rowspan="2">Papers</th>
-                        <td>Submission Deadline</td>
-                        <td>Notification Date</td>
-                    </tr>
-                    <tr>
-                        <td>Before November 15, 2016</td>
-                        <td>On November 30, 2016</td>
-                    </tr>
-                    <tr>
-                        <th rowspan="2">Abstracts</th>
-                        <td>Submission Deadline</td>
-                        <td>Notification Date</td>
-                    </tr>
-                    <tr>
-                        <td>Before November 15, 2016</td>
-                        <td>On November 30, 2016</td>
-                    </tr>
-                    <tr>
-                        <th>Registration</th>
-                        <td>Submission Deadline</td>
-                        <td>December 15, 2016</td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section id="sponsorship" class="section sponsorship">
     <div class="container">
         <div class="row">
@@ -592,7 +548,7 @@
                 <a class="partner-box partner-box-4"></a>
             </div>
         </div>
-
+<!--
         <div class="row">
             <div class="col-sm-3">
                 <a class="partner-box partner-box-5"></a>
@@ -608,6 +564,7 @@
             </div>
         </div>
     </div>
+-->
 </section>
 
 <section id="faq" class="section faq">
@@ -677,7 +634,7 @@
     </div>
 </section>
 
-<section id="booklet" class="section bg-image-2 contribution">
+<section id="booklet" class="section bg-image-2 booklet">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
